@@ -14,19 +14,19 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "sunfe2009/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
 site_name = "一个测试"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author = "牧辉"
+email = "sunfeme@gmail.com"
+author_homepage = "https://sunfe2009.github.io/Blog-With-GitHub-Boilerplate"
+description = "博客测试描述"
+key_words = ['Maverick', '博客', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -61,7 +61,7 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/morelight_",
         "icon": "gi gi-twitter"
     },
     {
