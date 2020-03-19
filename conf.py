@@ -34,11 +34,6 @@ external_links = [
         "url": "https://github.com/AlanDecode/Maverick",
         "brief": "🏄‍ Go My Own Way."
     },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
-    }
 ]
 nav = [
     {
@@ -64,16 +59,6 @@ social_links = [
         "url": "https://twitter.com/morelight_",
         "icon": "gi gi-twitter"
     },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
-    }
 ]
 
 head_addon = r'''
